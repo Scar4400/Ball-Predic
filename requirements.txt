@@ -1,0 +1,12 @@
+Flask
+pandas
+scikit-learn
+joblib
+requests
+python-dotenv
+elasticsearch
+prometheus_client
+apscheduler
+logstash-formatter
+pydantic
+pytest
